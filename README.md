@@ -1,1 +1,2 @@
 # Text-Classification-using-LSTM-Application
+ Text classification using LSTM is a machine learning project that aims to classify text data into different categories or labels. The project typically involves pre-processing the text data, such as tokenization and vectorization, training an LSTM model on the processed data, and evaluating the model's performance on a test dataset. The LSTM model is a type of recurrent neural network (RNN) that is well suited for handling sequential data, such as text, and has been shown to achieve high accuracy in text classification tasks. 
